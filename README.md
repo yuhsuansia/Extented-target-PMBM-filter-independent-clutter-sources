@@ -1,8 +1,9 @@
 # Extented-target-PMBM-filter-PMB-clutter
 This repository contains Matlab implementations of the following multi-target filters for extended targets with a Poisson multi-Bernoulli clutter:
 
-Poisson multi-Bernoulli mixture (PMBM) filter.
-Poisson multi-Bernoulli (PMB) filter.
+*Poisson multi-Bernoulli mixture (PMBM) filter.
+*Poisson multi-Bernoulli (PMB) filter.
+
 These filters are described in
 
 A. F. Garcia-Fernandez, J. L. Williams, L. Svensson and Y. Xia, "Poisson multi-Bernoulli mixture filter with general target-generated measurements and arbitrary clutter," in IEEE Transactions on Signal Processing, 2023 doi: 10.1109/TSP.2023.3278944.
